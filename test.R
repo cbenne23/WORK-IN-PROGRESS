@@ -30,7 +30,6 @@ for(cnr in 1:length(check)){
 #names(data)
 #data["Grp_CHANNEL1_6M"][which(data["CHANNEL1_6M"]==0),]<-"Match"
 
-#summary(data,2)
 head(data,2)
 #test<-names(data["Grp_CHANNEL1_6M"])
 #test
